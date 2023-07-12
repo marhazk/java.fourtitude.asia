@@ -18,3 +18,5 @@ INSTRUCTIONS
 - cd .\web (REACT folder)
 - npm start
 
+VIDEO:
+https://drive.google.com/file/d/15uq7xvE6C_HcbltO7tlmB249sVG2yEq6/view?usp=sharing
